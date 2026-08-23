@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Deleted Gift Sender Web",
+  "version": "2.1.0",
+  "description": "Deleted Gift Sender port for Telegram Web K.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://web.telegram.org/k/*"
+      ],
+      "js": [
+        "main.js"
+      ],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
