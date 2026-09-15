@@ -14,4 +14,4 @@ https://t.me/exteraPluginsSup/592
 
 
 This project is unofficial and is not affiliated with Telegram.
-
+Телеграм пофиксил ((( если будут новости ждите
